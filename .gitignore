@@ -1,0 +1,6 @@
+
+# Ignore the executable
+race
+
+# Ignore folder with .o files
+obj/**
